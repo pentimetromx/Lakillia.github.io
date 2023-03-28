@@ -1,0 +1,14 @@
+#forma{
+    display: table-caption;
+    flex-direction:column;
+    background-color: aqua;
+}
+
+#label1{
+    background-color: aqua;
+}
+
+#mi-imagen{
+    width: 200px;
+    height: 200px;
+}
